@@ -1,5 +1,5 @@
 # Hitch-a-Ride
-Mobile app for EECS 441
+Mobile app for EECS 441 by Brian Ford, Jon Budzenski, and Madi Sergazin.
 
 ## Prereqs
 Node.js and npm.
