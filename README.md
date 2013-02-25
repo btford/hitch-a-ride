@@ -6,7 +6,12 @@ Node.js and npm.
 
 ## Setting up Development Environment
 
-First clone the following repos:
+Fork this repo, and the following three:
+* [client](https://github.com/btford/hitch-a-ride-client)
+* [server](https://github.com/btford/hitch-a-ride-server)
+* [android](https://github.com/btford/hitch-a-ride-android)
+
+Then clone the following repos, replacing `btford` with your user name:
 ```
 git clone git@github.com:btford/hitch-a-ride.git
 git clone git@github.com:btford/hitch-a-ride-android.git
