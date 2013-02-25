@@ -1,0 +1,12 @@
+{
+  "name": "hitch-a-ride",
+  "url": "https://github.com/btford/hitch-a-ride",
+  "version": "0.0.0",
+  "dependencies": {
+    "hitch-a-ride-server": "git://github.com/btford/hitch-a-ride-server.git",
+    "hitch-a-ride-android": "git://github.com/btford/hitch-a-ride-android.git"
+  },
+  "devDependencies": {},
+  "private": true,
+  "license": "MIT"
+}
